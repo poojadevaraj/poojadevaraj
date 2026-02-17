@@ -4,6 +4,9 @@
 - 💻 A Passionate Software Developer
 - 📚 Currently learning new technologies
 
+## 🛠 Skills
+![My Skills](https://skillicons.dev/icons?i=php,react,js,html,css,mysql,git)
+
 <!--
 **poojadevaraj/poojadevaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
