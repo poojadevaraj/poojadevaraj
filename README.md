@@ -1,23 +1,30 @@
 ## Hi there 👋 I'm Pooja
 
 ## 🌱 About Me
-- 💻 A Passionate Software Developer
+- 💻 A Passionate Junior Software Developer at Metaveo.ai Pvt Ltd, Kochi, Kerala
 - 📚 Currently learning new technologies
 
 ## 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=php,js,react,mysql,git,github,vscode)
+
+### 💻 Languages
+- Python
+- PHP
+- JavaScript
+
+### ⚙️ Frameworks & Libraries
+- Django
+- FastAPI
+- React
+- Next.js
+- CakePHP
+- jQuery
+- Bootstrap
+
+### 🗄️ Database
+- PostgreSQL
+- MySQL
+
 
 <!--
-**poojadevaraj/poojadevaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**poojadevaraj/poojadevaraj** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
