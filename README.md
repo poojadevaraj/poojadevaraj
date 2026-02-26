@@ -7,24 +7,14 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-- Python
-- PHP
-- JavaScript
+![Languages](https://skillicons.dev/icons?i=python,php,js)
 
 ### ⚙️ Frameworks & Libraries
-- Django
-- FastAPI
-- React
-- Next.js
-- CakePHP
-- jQuery
-- Bootstrap
+![Frameworks](https://skillicons.dev/icons?i=django,fastapi,react,nextjs,cakephp,jquery,bootstrap)
 
 ### 🗄️ Database
-- PostgreSQL
-- MySQL
-
+![Database](https://skillicons.dev/icons?i=postgres,mysql)
 
 <!--
-**poojadevaraj/poojadevaraj** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**poojadevaraj/poojadevaraj** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
