@@ -3,6 +3,8 @@
 ## 🌟 About Me
 - 💻 A Passionate Junior Software Developer at Metaveo.ai Pvt Ltd, Kochi, Kerala
 - 📚 Currently learning new technologies
+- 🐍 Working with Python, Django, and FastAPI
+- 🌐 Experienced in PHP and CakePHP development
 
 ## 🛠 Tech Stack
 
