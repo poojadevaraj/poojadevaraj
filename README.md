@@ -19,6 +19,9 @@
 
 ### 🗄️ Database
 ![Database](https://skillicons.dev/icons?i=postgres,mysql)
+
+📫 Contact
+📧 Email: poojanedumattom1998@gmail.com
 <!--
 **poojadevaraj/poojadevaraj** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
