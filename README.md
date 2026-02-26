@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Pooja
 
-## 🌱 About Me
+## 🌟 About Me
 - 💻 A Passionate Junior Software Developer at Metaveo.ai Pvt Ltd, Kochi, Kerala
 - 📚 Currently learning new technologies
 
