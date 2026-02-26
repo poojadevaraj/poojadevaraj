@@ -10,11 +10,13 @@
 ![Languages](https://skillicons.dev/icons?i=python,php,js)
 
 ### ⚙️ Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=django,fastapi,react,nextjs,cakephp,jquery,bootstrap)
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,react,nextjs,jquery,bootstrap" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" width="48" height="48"/>
+</p>
 
 ### 🗄️ Database
 ![Database](https://skillicons.dev/icons?i=postgres,mysql)
-
 <!--
 **poojadevaraj/poojadevaraj** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
